@@ -1,0 +1,5 @@
+
+*.pyc
+docscrapy/__pycache__/
+docscrapy/spiders/__pycache__/
+.idea/*
